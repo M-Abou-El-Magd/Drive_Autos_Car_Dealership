@@ -1,0 +1,19 @@
+To: client@example.com
+Subject: Reservation confirmed - #1
+
+Hello Client,
+
+Your car reservation has been confirmed. Here are the details:
+
+Reservation ID: 1
+Car: Lamborghini hurricane
+Year: 2024
+Price: $150000.00
+Color: yellow
+Reserved At (UTC): 2026-05-04 19:55
+Expires At (UTC): 2026-05-05 19:55
+Message: test reservation
+
+Please visit the store within 24 hours to complete your purchase.
+
+Thank you for choosing our dealership.

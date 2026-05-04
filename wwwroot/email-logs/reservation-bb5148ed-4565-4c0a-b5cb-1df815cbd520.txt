@@ -1,0 +1,19 @@
+To: m.abouelmagd3@gmail.com
+Subject: Reservation confirmed - #2
+
+Hello Mahmoud Abouelmagd,
+
+Your car reservation has been confirmed. Here are the details:
+
+Reservation ID: 2
+Car: Mercedes G63
+Year: 2025
+Price: $320000.00
+Color: Grey
+Reserved At (UTC): 2026-05-04 20:00
+Expires At (UTC): 2026-05-05 20:00
+Message: I want to reserve this car until tomorrow at the dealership until 4 pm for inspection
+
+Please visit the store within 24 hours to complete your purchase.
+
+Thank you for choosing our dealership.
